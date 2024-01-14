@@ -1,3 +1,4 @@
+package ru.netology.domain;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.w3c.dom.ls.LSOutput;

@@ -1,5 +1,5 @@
+package ru.netology.domain;
 import ru.netology.domain.Ticket;
-
 import java.util.Comparator;
 
 public class TicketTimeComparator implements Comparator<Ticket> {
